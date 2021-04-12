@@ -1,6 +1,6 @@
 Preset:
 
-Name of the Size
+Name of the Site
 Url: www.site.com
 Languages:
 Programming Languages:
