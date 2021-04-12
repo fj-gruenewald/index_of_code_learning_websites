@@ -1,0 +1,67 @@
+Preset:
+
+Name of the Size
+Url: www.site.com
+Languages:
+Programming Languages:
+Courses:
+Pricing:
+
+A:
+
+B:
+
+C:
+
+Coursera
+Url: https://www.coursera.org
+Language: english
+Programming Languages: diverse
+Courses: diverse
+Pricing: Free for limited courses
+
+D:
+
+E:
+
+F:
+
+G:
+
+H:
+
+I:
+
+J:
+
+K:
+
+L:
+
+M:
+
+N:
+
+O:
+
+P:
+
+Q:
+
+R:
+
+S:
+
+T:
+
+U:
+
+V:
+
+W:
+
+X:
+
+Y:
+
+Z:
