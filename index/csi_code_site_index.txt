@@ -1,6 +1,6 @@
 Index of Sites where you can learn how to Code
 
-Current Entries: 6
+Current Entries: 19
 
 A:
 
@@ -24,8 +24,36 @@ Programming Languages: diverse
 Courses: diverse
 Pricing: Free for a limited amount of courses
 
+Code School
+Url: https://www.codeschool.co/
+Languages: english
+Programming Languages: mostly Python
+Courses: mostly Python
+Pricing:
+
+Codewars
+Url: https://www.codewars.com/
+Languages: english
+Programming Languages: python, C#, Kotlin, C, C++, PHP, SQL, Go, Lua, CoffeScript, Java, Javascript and many more
+Pricing: free Trial then subscription
+
+Code Avengers
+Url: https://www.codeavengers.com/
+Languages: english
+Programming Languages:
+Courses:
+Pricing: Free Trial then Subscription
+Note: has an Account Wall
+
 -------------------------------------------------------------------------------------------
 D:
+
+David Walsh Blog
+Url: https://davidwalsh.name/
+Languages: english
+Programming Languages: Java, Javascript, React.js, Node.js, Javascript
+Courses: Blog entries
+Pricing: Free
 
 -------------------------------------------------------------------------------------------
 E:
@@ -38,11 +66,33 @@ Courses: Programming, Science beginner to Advanced
 Pricing: mostly free, certificates cost a bit
 Note: you can make real certificates here
 
+Envatotuts+
+Url: https://tutsplus.com/
+Languages: english
+Programming Languages: most common ones and more
+Courses: many different
+Pricing: Free
+
 -------------------------------------------------------------------------------------------
 F:
 
+freecodecamp
+Url: https://www.freecodecamp.org/
+Languages: english
+Programming Languages: all the common ones and more
+Courses: you can make serveral Certificates
+Pricing: Free
+
 -------------------------------------------------------------------------------------------
 G:
+
+Github - Learn to Code
+Url: https://github.com/collections/learn-to-code
+Languages: egnlish
+Programming Languages: all the common ones and more
+Courses: Repositories that teach you something
+Pricing: Free
+
 
 -------------------------------------------------------------------------------------------
 H:
@@ -56,11 +106,25 @@ J:
 -------------------------------------------------------------------------------------------
 K:
 
+Khan Academy
+Url: https://de.khanacademy.org/
+Languages: english, german and more
+Programming Languages: many different
+Courses: programming, UI, Databases and more
+Pricing: Free, you can Donate
+
 -------------------------------------------------------------------------------------------
 L:
 
 -------------------------------------------------------------------------------------------
 M:
+
+MIT OpenCourseWare
+Url: https://ocw.mit.edu/index.htm
+Languages: english
+Programming Languages: Python, Java and many more
+Courses: more Scientific
+Pricing: Free
 
 -------------------------------------------------------------------------------------------
 N:
@@ -87,6 +151,13 @@ Programming Languages: Python, HTML, CSS, Javascript, Java, C#, SQL, C, PHP, Rub
 Courses: Machine Learning, Data Science and many more
 Pricing: Free
 
+Sitepoint
+Url: https://www.sitepoint.com/
+Languages: english
+Programming Languages: most common ones and more
+Courses: many different
+Pricing: many free but also Premium stuff
+
 -------------------------------------------------------------------------------------------
 T:
 
@@ -96,6 +167,13 @@ Languages: english
 Programming Languages: diverse
 Courses: Programming, Design and more
 Pricing: Free trial, Subscription after 
+
+The Odin Project
+Url: https://www.theodinproject.com/
+Languages: english
+Programming Languages: HTML, CSS, Ruby, Javascript and more
+Courses: Curriculum
+Pricing: Free
 
 -------------------------------------------------------------------------------------------
 U:
@@ -108,11 +186,25 @@ Courses : There are more than 100,000
 Pricing : moderate pricing
 Note: Ratings are also provided which help you to actually decide to take the course or not Udemy
 
+Udacity
+Url: https://www.udacity.com/
+Languages: english
+Programming Languages: course relevant programming languages
+Courses: All in One Certificates
+Pricing: expensive
+
 -------------------------------------------------------------------------------------------
 V:
 
 -------------------------------------------------------------------------------------------
 W:
+
+WebFundamentals formal HTMLRocks
+Url: https://developers.google.com/web
+Languages: english
+Programming Languages: HMTL, CSS and more Frontend Languages
+Courses: Articles
+Pricing: Free
 
 -------------------------------------------------------------------------------------------
 X:
