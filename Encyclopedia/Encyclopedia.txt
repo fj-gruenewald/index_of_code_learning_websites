@@ -6,10 +6,18 @@ Languages:
 Programming Languages:
 Courses:
 Pricing:
+Note:
 
 A:
 
 B:
+
+BitDegree
+Url: https://www.bitdegree.org/learn/
+Language: english
+Programming Languages: HTML, CSS, PHP, Javascript, SQL, JQuery
+Courses: none
+Pricing: Free
 
 C:
 
@@ -18,7 +26,7 @@ Url: https://www.coursera.org
 Language: english
 Programming Languages: diverse
 Courses: diverse
-Pricing: Free for limited courses
+Pricing: Free for a limited amount of courses
 
 D:
 
@@ -52,9 +60,24 @@ R:
 
 S:
 
+SoloLearn
+Url: https://www.sololearn.com/
+Languages: english
+Programming Languages: Python, HTML, CSS, Javascript, Java, C#, SQL, C, PHP, Ruby, Swift, jQuery, Kotlin
+Courses: Machine Learning, Data Science and many more
+Pricing: Free
+
 T:
 
 U:
+
+Udemy
+Url:  https://www.udemy.com/
+Languages: English
+Programming Languages : All kind of programming languages + tons of other things as well
+Courses : There are more than 100,000
+Pricing : moderate pricing
+Note: Ratings are also provided which help you to actually decide to take the course or not Udemy
 
 V:
 
