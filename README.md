@@ -8,4 +8,4 @@ Just write me a Message and become a Contributor
 
 
 ### Sites to learn Programming
-[to the Code Site Index](index_of_code_learning_websites/index/csi_code_site_index.txt)
+[to the Code Site Index](https://github.com/fj-gruenewald/index_of_code_learning_websites/blob/main/index/csi_code_site_index.txt)
