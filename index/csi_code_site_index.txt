@@ -226,3 +226,39 @@ Programming Languages:
 Courses:
 Pricing:
 Note:
+
+recommendet sites(not in list) that need an entry:
+
+hack.pledge()
+agupieware
+crunchzilla
+dash general assembly
+codecademy
+infinity skills by udemy
+lynda
+codehs
+code academy
+code.org
+free code camp
+code conquest
+w3schools
+hackr.io
+bento.io
+code avengers
+google android training
+upskill
+plural sight
+codeeasy.net
+edabit
+educative
+try.github.io
+onemonth
+codingbat
+code4startup
+codeabbey
+sqlzoo
+git immersion
+tryhaskell
+rubymonk
+thinkful.com 
+railsforzombies.orglearnpython.org
