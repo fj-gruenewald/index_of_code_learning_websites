@@ -41,7 +41,7 @@ D:
 DesignCourse
 Url: https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow
 Language: english
-Topics: Frontend
+Topics: Web Frontend
 
 -------------------------------------------------------------------------------------------
 E:
@@ -57,7 +57,7 @@ Topics: Programming Language Tutorials and Computer Science
 Fox Learn
 Url: https://www.youtube.com/channel/UC8inCnD25Es0VLokfmhko5g
 Language: english
-Topics: .Net
+Topics: .Net, C#, VisualBasic
 
 -------------------------------------------------------------------------------------------
 G:
@@ -74,7 +74,7 @@ J:
 Joma Tech
 Url: https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw
 Language: english
-Topics: Python, Math
+Topics: Python, Math, Advice
 
 -------------------------------------------------------------------------------------------
 K:
