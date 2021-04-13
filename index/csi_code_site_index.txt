@@ -212,11 +212,18 @@ X:
 -------------------------------------------------------------------------------------------
 Y:
 
+Youtube/freeCodeCamp.org
+Url: https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
+Language: english
+Topics: Programming Language Tutorials and Computer Science
+
 -------------------------------------------------------------------------------------------
 Z:
 
 -------------------------------------------------------------------------------------------
-Preset:
+
+Preset for Websites:
+
 Name of the Site
 Url: www.site.com
 Languages:
@@ -224,3 +231,11 @@ Programming Languages:
 Courses:
 Pricing:
 Note:
+
+
+Preset for Youtube Channels:
+
+Youtube/Name of the Channel
+Url:
+Language:
+Topics:
