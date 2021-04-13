@@ -79,7 +79,7 @@ Topics: Python, Math, Advice
 -------------------------------------------------------------------------------------------
 K:
 
-Kalle Halden
+Kalle Hallden
 Url: https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ
 Language: english
 Topics: Python
