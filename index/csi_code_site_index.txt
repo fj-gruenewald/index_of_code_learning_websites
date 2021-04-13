@@ -1,6 +1,6 @@
 Index of Sites where you can learn how to Code
 
-Current Entries: 19
+Current Entries: 28
 
 A:
 
@@ -44,6 +44,72 @@ Programming Languages:
 Courses:
 Pricing: Free Trial then Subscription
 Note: has an Account Wall
+
+CodeHS
+Url: https://codehs.com/
+Languages: english
+Programming Languages: Python
+Courses: Curriculum , Design, ComputerScience
+Pricing: Account wall
+
+CodeCademy
+Url: https://www.codecademy.com/
+Languages: english
+Programming Languages: all common languages and more
+Courses: Programming Languages, Computer Science
+Pricing: some Free some Free Trial then Subscription
+
+Code.org
+Url: https://code.org/
+Languages: multilanguage , english, german, ...
+Programming Languages:
+Pricing: Free
+Note: mostly for Children
+
+CodingBat
+Url: https://codingbat.com/java
+Languages: english
+Programming Languages: Java, Python
+Pricing: Free
+Note: Practical Challenges
+
+CodeAbbey
+Url: https://www.codeabbey.com/
+Languages: multilanguage: english, german, french, russian, spanish, romanian...
+Programming Languages: as you want
+Courses: different Problems to solve
+Pricing: Free
+Note: has a ranking system
+
+Code4Startup
+Url: https://code4startup.com/
+Languages: english
+Programming Languages: depending on Course: Ruby, CSS, HTML ...
+Courses: Coding a Startup
+Pricing: beggingin from 29/mo for Tutorials
+Note: learn Coding by Coding a Startup
+
+Code Conquest
+Url: https://www.codeconquest.com/
+Languages: english
+Programming Languages: HTML, CSS, Javascript, PHP, Binary, Ruby, JQuery, MySQL, Swift, Python, Python Flask
+Pricing: Free
+Note: also has trainings
+
+codeeasy.net
+Url: https://codeasy.net/
+Languages: english
+Programming Languages: C#
+Pricing: Free
+Note: very modern, cool challenges with stories
+
+Crunchzilla
+Url: http://www.crunchzilla.com/
+Languages: english
+Programming Languages: Java, Javascript
+Courses: coding challenges
+Pricing: Free
+Note: different levels,
 
 -------------------------------------------------------------------------------------------
 D:
@@ -231,31 +297,20 @@ recommendet sites(not in list) that need an entry:
 
 hack.pledge()
 agupieware
-crunchzilla
 dash general assembly
-codecademy
 infinity skills by udemy
 lynda
-codehs
-code academy
-code.org
 free code camp
-code conquest
 w3schools
 hackr.io
 bento.io
-code avengers
 google android training
 upskill
 plural sight
-codeeasy.net
 edabit
 educative
 try.github.io
 onemonth
-codingbat
-code4startup
-codeabbey
 sqlzoo
 git immersion
 tryhaskell
