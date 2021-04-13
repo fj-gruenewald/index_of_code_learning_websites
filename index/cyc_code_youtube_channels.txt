@@ -1,8 +1,13 @@
 Index of Youtube Channels about Coding
 
-Current Entries: 1
+Current Entries: 11
 
 A:
+
+Aws Rh
+Url: https://www.youtube.com/channel/UCoQp_Duwqh0JWEZrg4DT2Ug
+Language: english
+Topics: mobile development
 
 -------------------------------------------------------------------------------------------
 B:
@@ -10,8 +15,33 @@ B:
 -------------------------------------------------------------------------------------------
 C:
 
+Coder Foundry
+Url: https://www.youtube.com/channel/UCTGgxc_jIz2z9mpfInuPHWQ
+Language: english
+Topics: .Net, Project Ideas
+
+Computerphile
+Url: https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA
+Language: english
+Topics: Algorithms and Computer Science
+
+Coding in Flow
+Url: https://www.youtube.com/channel/UC_Fh8kvtkVPkeihBs42jGcA
+Language: english
+Topics: Android development
+
+C# UI Academy
+Url: https://www.youtube.com/c/CUiAcademy/featured
+Language: english
+Topics: .Net Frontend
+
 -------------------------------------------------------------------------------------------
 D:
+
+DesignCourse
+Url: https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow
+Language: english
+Topics: Frontend
 
 -------------------------------------------------------------------------------------------
 E:
@@ -23,6 +53,11 @@ freeCodeCamp.org
 Url: https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
 Language: english
 Topics: Programming Language Tutorials and Computer Science
+
+Fox Learn
+Url: https://www.youtube.com/channel/UC8inCnD25Es0VLokfmhko5g
+Language: english
+Topics: .Net
 
 -------------------------------------------------------------------------------------------
 G:
@@ -36,8 +71,18 @@ I:
 -------------------------------------------------------------------------------------------
 J:
 
+Joma Tech
+Url: https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw
+Language: english
+Topics: Python, Math
+
 -------------------------------------------------------------------------------------------
 K:
+
+Kalle Halden
+Url: https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ
+Language: english
+Topics: Python
 
 -------------------------------------------------------------------------------------------
 L:
@@ -75,6 +120,11 @@ V:
 -------------------------------------------------------------------------------------------
 W:
 
+Wes Doyle
+Url: https://www.youtube.com/c/WesDoyle/videos
+Language: english
+Topics: .Net, Python
+
 -------------------------------------------------------------------------------------------
 X:
 
@@ -85,6 +135,7 @@ Y:
 Z:
 
 -------------------------------------------------------------------------------------------
+
 
 Preset for Youtube Channels:
 
