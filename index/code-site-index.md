@@ -1,6 +1,6 @@
 # Index of Sites where you can learn how to Code
 
-**Current Entries: 46**
+**Current Entries: 49**
 
 ### A:
 
@@ -208,6 +208,13 @@
 >Pricing: Free <br/>
 >Note: gives certifications <br/>
 
+>**GeeksforGeeks** <br/>
+>Url: https://www.geeksforgeeks.org/ <br/>
+>Languages: english <br/>
+>Programming Languages: C++, Java, Python and more<br/> 
+>Courses: Live or Recorded, Algorithms, Datastructures, Languages and more<br/> 
+>Pricing: mostly Free with paid special Courses(moderate) <br/>
+
 ---
 ### H:
 
@@ -283,6 +290,20 @@
 >Language: english <br/>
 >Programming Languages: Python <br/>
 >Pricing: Free <br/>
+
+>**Pythonspot** <br/>
+>Url: https://pythonspot.com/<br/>
+>Languages: english <br/>
+>Programming Languages: Python <br/> 
+>Pricing: Free <br/>
+>Note: Articles and Challenges, Machine Learning, Databases <br/>
+
+>**Python Documentation** <br/>
+>Url: https://www.python.org/ <br/>
+>Languages: english <br/>
+>Programming Languages: Python <br/> 
+>Pricing: Free <br/>
+>Note: Getting Started and Explanations <br/>
 
 ---
 ### Q:
