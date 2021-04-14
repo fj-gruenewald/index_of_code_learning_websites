@@ -276,7 +276,7 @@
 >Courses: All in One Certificates <br/>
 >Pricing: expensive <br/>
 
-**Unity Learn** <br/>
+>**Unity Learn** <br/>
 >Url: https://learn.unity.com/ <br/>
 >Languages: english <br/>
 >Programming Languages: C# <br/> 
@@ -310,7 +310,7 @@
 Preset for Websites:
 
 ```
-**Name of the Site** <br/>
+>**Name of the Site** <br/>
 >Url: www.site.com <br/>
 >Languages: <br/>
 >Programming Languages: <br/> 
