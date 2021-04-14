@@ -43,6 +43,11 @@ Url: https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow
 Language: english
 Topics: Web Frontend
 
+Dev Ed
+URL: https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q
+Language: english
+Topics: Web Frontend, Web Backend, UI/UX Design
+
 -------------------------------------------------------------------------------------------
 E:
 
@@ -107,7 +112,10 @@ R:
 
 -------------------------------------------------------------------------------------------
 S:
-
+Sentdex
+URL: https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ
+Language: English
+Topics: Python
 -------------------------------------------------------------------------------------------
 T:
 
