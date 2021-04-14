@@ -1,153 +1,157 @@
-Index of Youtube Channels about Coding
+# Index of Youtube Channels about Coding
 
-Current Entries: 13
+**Current Entries: 13**
 
-A:
+### A:
 
-Aws Rh
-Url: https://www.youtube.com/channel/UCoQp_Duwqh0JWEZrg4DT2Ug
-Language: english
-Topics: mobile development
-
--------------------------------------------------------------------------------------------
-B:
+>**Aws Rh** <br/>
+>Url: https://www.youtube.com/channel/UCoQp_Duwqh0JWEZrg4DT2Ug <br/>
+>Language: english <br/>
+>Topics: mobile development <br/>
 
 -------------------------------------------------------------------------------------------
-C:
-
-Coder Foundry
-Url: https://www.youtube.com/channel/UCTGgxc_jIz2z9mpfInuPHWQ
-Language: english
-Topics: .Net, Project Ideas
-
-Computerphile
-Url: https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA
-Language: english
-Topics: Algorithms and Computer Science
-
-Coding in Flow
-Url: https://www.youtube.com/channel/UC_Fh8kvtkVPkeihBs42jGcA
-Language: english
-Topics: Android development
-
-C# UI Academy
-Url: https://www.youtube.com/c/CUiAcademy/featured
-Language: english
-Topics: .Net Frontend
+### B:
 
 -------------------------------------------------------------------------------------------
-D:
+### C:
 
-DesignCourse
-Url: https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow
-Language: english
-Topics: Web Frontend
+>**Coder Foundry** <br/>
+>Url: https://www.youtube.com/channel/UCTGgxc_jIz2z9mpfInuPHWQ <br/>
+>Language: english <br/>
+>Topics: .Net, Project Ideas <br/>
 
-Dev Ed
-URL: https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q
-Language: english
-Topics: Web Frontend, Web Backend, UI/UX Design
+>**Computerphile** <br/>
+>Url: https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA <br/>
+>Language: english <br/>
+>Topics: Algorithms and Computer Science <br/>
 
--------------------------------------------------------------------------------------------
-E:
+>**Coding in Flow** <br/>
+>Url: https://www.youtube.com/channel/UC_Fh8kvtkVPkeihBs42jGcA <br/>
+>Language: english <br/>
+>Topics: Android development <br/>
 
--------------------------------------------------------------------------------------------
-F:
-
-freeCodeCamp.org
-Url: https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
-Language: english
-Topics: Programming Language Tutorials and Computer Science
-
-Fox Learn
-Url: https://www.youtube.com/channel/UC8inCnD25Es0VLokfmhko5g
-Language: english
-Topics: .Net, C#, VisualBasic
+>**C# UI Academy** <br/>
+>Url: https://www.youtube.com/c/CUiAcademy/featured <br/>
+>Language: english <br/>
+>Topics: .Net Frontend <br/>
 
 -------------------------------------------------------------------------------------------
-G:
+### D:
+
+>**DesignCourse** <br/>
+>Url: https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow <br/>
+>Language: english <br/>
+>Topics: Web Frontend <br/>
+
+>**Dev Ed** <br/>
+>URL: https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q <br/>
+>Language: english <br/>
+>Topics: Web Frontend, Web Backend, UI/UX Design <br/>
 
 -------------------------------------------------------------------------------------------
-H:
+### E:
 
 -------------------------------------------------------------------------------------------
-I:
+### F:
+
+>**freeCodeCamp.org** <br/>
+>Url: https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ <br/>
+>Language: english <br/>
+>Topics: Programming Language Tutorials and Computer Science <br/>
+
+>**Fox Learn** <br/>
+>Url: https://www.youtube.com/channel/UC8inCnD25Es0VLokfmhko5g <br/>
+>Language: english <br/>
+>Topics: .Net, C#, VisualBasic <br/>
 
 -------------------------------------------------------------------------------------------
-J:
-
-Joma Tech
-Url: https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw
-Language: english
-Topics: Python, Math, Advice
+### G:
 
 -------------------------------------------------------------------------------------------
-K:
-
-Kalle Hallden
-Url: https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ
-Language: english
-Topics: Python
+### H:
 
 -------------------------------------------------------------------------------------------
-L:
+### I:
 
 -------------------------------------------------------------------------------------------
-M:
+### J:
+
+>**Joma Tech** <br/>
+>Url: https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw <br/>
+>Language: english <br/> 
+>Topics: Python, Math, Advice <br/>
 
 -------------------------------------------------------------------------------------------
-N:
+### K:
+
+>**Kalle Hallden** <br/>
+>Url: https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ <br/>
+>Language: english <br/>
+>Topics: Python <br/>
 
 -------------------------------------------------------------------------------------------
-O:
+### L:
 
 -------------------------------------------------------------------------------------------
-P:
+### M:
 
 -------------------------------------------------------------------------------------------
-Q:
+### N:
 
 -------------------------------------------------------------------------------------------
-R:
+### O:
 
 -------------------------------------------------------------------------------------------
-S:
-Sentdex
-URL: https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ
-Language: English
-Topics: Python
--------------------------------------------------------------------------------------------
-T:
+### P:
 
 -------------------------------------------------------------------------------------------
-U:
+### Q:
 
 -------------------------------------------------------------------------------------------
-V:
+### R:
 
 -------------------------------------------------------------------------------------------
-W:
+### S:
 
-Wes Doyle
-Url: https://www.youtube.com/c/WesDoyle/videos
-Language: english
-Topics: .Net, Python
-
--------------------------------------------------------------------------------------------
-X:
+>**Sentdex** <br/>
+>URL: https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ <br/>
+>Language: English <br/>
+>Topics: Python <br/>
 
 -------------------------------------------------------------------------------------------
-Y:
+### T:
 
 -------------------------------------------------------------------------------------------
-Z:
+### U:
+
+-------------------------------------------------------------------------------------------
+### V:
+
+-------------------------------------------------------------------------------------------
+### W:
+
+>**Wes Doyle** <br/>
+>Url: https://www.youtube.com/c/WesDoyle/videos <br/>
+>Language: english <br/>
+>Topics: .Net, Python <br/>
+
+-------------------------------------------------------------------------------------------
+### X:
+
+-------------------------------------------------------------------------------------------
+### Y:
+
+-------------------------------------------------------------------------------------------
+### Z:
 
 -------------------------------------------------------------------------------------------
 
 
-Preset for Youtube Channels:
+**Preset for Youtube Channels:**
 
-Youtube/Name of the Channel
-Url:
-Language:
-Topics:
+```
+>**Youtube/Name of the Channel** <br/>
+>Url: <br/>
+>Language: <br/>
+>Topics: <br/>
+```
