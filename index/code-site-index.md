@@ -1,6 +1,6 @@
 # Index of Sites where you can learn how to Code
 
-**Current Entries: 42**
+**Current Entries: 46**
 
 ### A:
 
