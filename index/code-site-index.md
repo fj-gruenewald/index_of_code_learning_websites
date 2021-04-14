@@ -276,6 +276,13 @@
 >Courses: All in One Certificates <br/>
 >Pricing: expensive <br/>
 
+**Unity Learn** <br/>
+>Url: https://learn.unity.com/ <br/>
+>Languages: english <br/>
+>Programming Languages: C# <br/> 
+>Courses: Game Development in Unity <br/> 
+>Pricing: free <br/>
+
 ---
 ### V:
 
