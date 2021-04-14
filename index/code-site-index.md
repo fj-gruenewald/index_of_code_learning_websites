@@ -37,13 +37,13 @@ C:
 >Programming Languages: python, C#, Kotlin, C, C++, PHP, SQL, Go, Lua, CoffeScript, Java, Javascript and many more <br/>
 >Pricing: free Trial then subscription <br/>
 
-Code Avengers <br/>
-Url: https://www.codeavengers.com/ <br/>
-Languages: english <br/>
-Programming Languages: <br/>
-Courses: <br/>
-Pricing: Free Trial then Subscription <br/>
-Note: has an Account Wall <br/>
+>Code Avengers <br/>
+>Url: https://www.codeavengers.com/ <br/>
+>Languages: english <br/>
+>Programming Languages: <br/>
+>Courses: <br/>
+>Pricing: Free Trial then Subscription <br/>
+>Note: has an Account Wall <br/>
 
 >CodeHS <br/>
 >Url: https://codehs.com/ <br/>
@@ -117,8 +117,8 @@ D:
 >David Walsh Blog <br/>
 >Url: https://davidwalsh.name/ <br/>
 >Languages: english <br/>
->Programming Languages: Java, React.js, Node.js, Javascript <br/> <br/> <br/>
->Courses: Blog entries <br/> <br/>
+>Programming Languages: Java, React.js, Node.js, Javascript <br/>
+>Courses: Blog entries <br/>
 >Pricing: Free <br/>
 
 >DevelopedByEd <br/>
@@ -141,15 +141,15 @@ E:
 >Url: https://tutsplus.com/ <br/>
 >Languages: english <br/>
 >Programming Languages: most common ones and more <br/>
->Courses: many different <br/> <br/>
+>Courses: many different <br/>
 >Pricing: Free <br/>
 
 ---
 F:
 
->freecodecamp <br/> <br/> <br/> <br/>
->Url: https://www.freecodecamp.org/ <br/> <br/> <br/>
->Languages: english <br/> <br/>
+>freecodecamp <br/>
+>Url: https://www.freecodecamp.org/ <br/>
+>Languages: english <br/>
 >Programming Languages: all the common ones and more <br/>
 >Courses: you can make serveral Certificates <br/>
 >Pricing: Free <br/>
@@ -180,10 +180,10 @@ K:
 >Url: https://de.khanacademy.org/  <br/>
 >Languages: english, german and more <br/>
 >Programming Languages: many different <br/>
->Courses: programming, UI, Databases and more <br/> <br/>
+>Courses: programming, UI, Databases and more <br/>
 >Pricing: Free, you can Donate <br/>
 
->Keras <br/> <br/>
+>Keras <br/>
 >Url: https://keras.io/ <br/>
 >Languages: english <br/>
 >Programming Languages: Python <br/>
@@ -197,8 +197,8 @@ L:
 M:
 
 >MIT OpenCourseWare <br/>
->Url: https://ocw.mit.edu/index.htm <br/> <br/> <br/>
->Languages: english <br/> <br/>
+>Url: https://ocw.mit.edu/index.htm <br/>
+>Languages: english <br/>
 >Programming Languages: Python, Java and many more <br/>
 >Courses: more Scientific <br/>
 >Pricing: Free <br/>
@@ -227,7 +227,7 @@ R:
 ---
 S:
 
->SoloLearn <br/> <br/>
+>SoloLearn <br/>
 >Url: https://www.sololearn.com/ <br/>
 >Languages: english <br/>
 >Programming Languages: Python, HTML, CSS, Javascript, Java, C#, SQL, C, PHP, Ruby, Swift, jQuery, Kotlin <br/>
@@ -235,7 +235,7 @@ S:
 >Pricing: Free <br/>
   
 >Sitepoint <br/>
->Url: https://www.sitepoint.com/ <br/> <br/>
+>Url: https://www.sitepoint.com/ <br/>
 >Languages: english <br/>
 >Programming Languages: most common ones and more <br/>
 >Courses: many different <br/>
@@ -303,7 +303,7 @@ Z:
 Preset for Websites:
 
 **Name of the Site** <br/>
->Url: www.site.com <br/> <br/>
+>Url: www.site.com <br/>
 >Languages: <br/>
 >Programming Languages: <br/> 
 >Courses: <br/> 
