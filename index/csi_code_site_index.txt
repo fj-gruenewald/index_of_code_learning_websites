@@ -184,6 +184,13 @@ Programming Languages: many different
 Courses: programming, UI, Databases and more
 Pricing: Free, you can Donate
 
+Keras
+Url: https://keras.io/
+Languages: english
+Programming Languages: Python
+Pricing: Free
+Note: Machine learning
+
 -------------------------------------------------------------------------------------------
 L:
 
