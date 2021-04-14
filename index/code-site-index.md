@@ -5,7 +5,7 @@
  ## A:
 
 ---
-B:
+### B:
 
 >**BitDegree** <br/>
 >Url: https://www.bitdegree.org/learn/ <br/>
@@ -15,7 +15,7 @@ B:
 >Pricing: Free <br/>
 
 ---
-C:
+#### C:
 
 >**Coursera** <br/>
 >Url: https://www.coursera.org <br/>
