@@ -282,7 +282,7 @@
 ---
 ### W:
 
->**WebFundamental**s formal HTMLRocks <br/>
+>**WebFundamentals**(formal HTMLRocks) <br/>
 >Url: https://developers.google.com/web <br/>
 >Languages: english <br/>
 >Programming Languages: HMTL, CSS and more Frontend Languages <br/>
