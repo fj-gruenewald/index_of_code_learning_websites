@@ -344,6 +344,13 @@
 >Courses: Software Engineering, Data Science, Data Analysis, UX/UI, Digital Marketing and more <br/> 
 >Pricing: moderate<br/>
 
+>**Tutorialspoint** <br/>
+>Url: https://www.tutorialspoint.com/index.htm <br/>
+>Languages: english <br/>
+>Programming Languages: most common ones and more <br/> 
+>Courses:Office, IT, Academics, Business, Design, Others <br/> 
+>Pricing: cheap <br/>
+
 ---
 ### U:
 
@@ -375,12 +382,19 @@
 ---
 ### W:
 
->**WebFundamentals**(formal HTMLRocks) <br/>
+>**WebFundamentals**(former HTMLRocks) <br/>
 >Url: https://developers.google.com/web <br/>
 >Languages: english <br/>
 >Programming Languages: HMTL, CSS and more Frontend Languages <br/>
 >Courses: Articles <br/>
 >Pricing: Free <br/>
+
+>**W3Schools** <br/>
+>Url: https://www.w3schools.com/ <br/>
+>Languages: english <br/>
+>Programming Languages: HTML, CSS, Javascript, SQL, Python, Java, C++, C#, R and more<br/> 
+>Pricing: Free <br/>
+>Note: has exercises and theoretical topics<br/>
 
 ---
 ### X:
@@ -411,9 +425,9 @@ dash general assembly
 infinity skills by udemy
 lynda
 free code camp
-w3schools
 bento.io
 upskill
 plural sight
 onemonth
 sqlzoo
+Documentation Sites of several programming languages
