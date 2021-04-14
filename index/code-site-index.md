@@ -17,27 +17,27 @@ B:
 ---
 C:
 
->Coursera <br/>
+>**Coursera** <br/>
 >Url: https://www.coursera.org <br/>
 >Language: english <br/>
 >Programming Languages: diverse <br/>
 >Courses: diverse <br/>
 >Pricing: Free for a limited amount of courses <br/>
 
->Code School <br/>
+>**Code School** <br/>
 >Url: https://www.codeschool.co/ <br/>
 >Languages: english <br/>
 >Programming Languages: mostly Python <br/>
 >Courses: mostly Python <br/>
 >Pricing: <br/>
 
->Codewars <br/>
+>**Codewars** <br/>
 >Url: https://www.codewars.com/ <br/>
 >Languages: english <br/>
 >Programming Languages: python, C#, Kotlin, C, C++, PHP, SQL, Go, Lua, CoffeScript, Java, Javascript and many more <br/>
 >Pricing: free Trial then subscription <br/>
 
->Code Avengers <br/>
+>**Code Avengers** <br/>
 >Url: https://www.codeavengers.com/ <br/>
 >Languages: english <br/>
 >Programming Languages: <br/>
@@ -45,35 +45,35 @@ C:
 >Pricing: Free Trial then Subscription <br/>
 >Note: has an Account Wall <br/>
 
->CodeHS <br/>
+>**CodeHS** <br/>
 >Url: https://codehs.com/ <br/>
 >Languages: english <br/>
 >Programming Languages: Python <br/> 
 >Courses: Curriculum , Design, ComputerScience <br/>
 >Pricing: Account wall <br/>
 
->CodeCademy <br/>
+>**CodeCademy** <br/>
 >Url: https://www.codecademy.com/ <br/>
 >Languages: english <br/>
 >Programming Languages: all common languages and more <br/>
 >Courses: Programming Languages, Computer Science <br/>
 >Pricing: some Free some Free Trial then Subscription <br/>
 
->Code.org <br/>
+>**Code.org** <br/>
 >Url: https://code.org/ <br/>
 >Languages: multilanguage , english, german, ... <br/>
 >Programming Languages: <br/>
 >Pricing: Free <br/>
 >Note: mostly for Children <br/>
 
->CodingBat <br/>
+>**CodingBat** <br/>
 >Url: https://codingbat.com/java <br/>
 >Languages: english <br/> 
 >Programming Languages: Java, Python <br/>
 >Pricing: Free <br/>
 >Note: Practical Challenges <br/>
 
->CodeAbbey <br/>
+>**CodeAbbey** <br/>
 >Url: https://www.codeabbey.com/ <br/>
 >Languages: multilanguage: english, german, french, russian, spanish, romanian... <br/>
 >Programming Languages: as you want <br/> 
@@ -81,7 +81,7 @@ C:
 >Pricing: Free <br/>
 >Note: has a ranking system <br/>
 
->Code4Startup <br/>
+>**Code4Startup** <br/>
 >Url: https://code4startup.com/  <br/>
 >Languages: english <br/> 
 >Programming Languages: depending on Course: Ruby, CSS, HTML ... <br/>
@@ -89,21 +89,21 @@ C:
 >Pricing: beggingin from 29/mo for Tutorials <br/>
 >Note: learn Coding by Coding a Startup <br/>
 
->Code Conquest <br/>
+>**Code Conquest** <br/>
 >Url: https://www.codeconquest.com/ <br/>
 >Languages: english <br/>
 >Programming Languages: HTML, CSS, Javascript, PHP, Binary, Ruby, JQuery, MySQL, Swift, Python, Python Flask <br/>
 >Pricing: Free <br/>
 >Note: also has trainings <br/>
 
->codeeasy.net <br/>
+>**codeeasy.net** <br/>
 >Url: https://codeasy.net/ <br/>
 >Languages: english <br/>
 >Programming Languages: C# <br/>
 >Pricing: Free <br/>
 >Note: very modern, cool challenges with stories <br/>
 
->Crunchzilla <br/>
+>**Crunchzilla** <br/>
 >Url: http://www.crunchzilla.com/ <br/>
 >Languages: english <br/>
 >Programming Languages: Java, Javascript <br/>
@@ -114,14 +114,14 @@ C:
 ---
 D:
  
->David Walsh Blog <br/>
+>**David Walsh Blog** <br/>
 >Url: https://davidwalsh.name/ <br/>
 >Languages: english <br/>
 >Programming Languages: Java, React.js, Node.js, Javascript <br/>
 >Courses: Blog entries <br/>
 >Pricing: Free <br/>
 
->DevelopedByEd <br/>
+>**DevelopedByEd** <br/>
 >URL: https://developedbyed.com/ <br/>
 >Languages: english <br/> 
 >Programming Languages: HTML, CSS, Javascript, Node.JS <br/>
@@ -129,7 +129,7 @@ D:
 ---
 E:
 
->Edx <br/>
+>**Edx** <br/>
 >Url: https://www.edx.org/ <br/>
 >Languages: english <br/>
 >Programming Languages: <br/>
@@ -137,7 +137,7 @@ E:
 >Pricing: mostly free, certificates cost a bit <br/>
 >Note: you can make real certificates here <br/>
 
->Envatotuts+ <br/>
+>**Envatotuts+** <br/>
 >Url: https://tutsplus.com/ <br/>
 >Languages: english <br/>
 >Programming Languages: most common ones and more <br/>
@@ -147,7 +147,7 @@ E:
 ---
 F:
 
->freecodecamp <br/>
+>**freecodecamp** <br/>
 >Url: https://www.freecodecamp.org/ <br/>
 >Languages: english <br/>
 >Programming Languages: all the common ones and more <br/>
@@ -157,7 +157,7 @@ F:
 ---
 G:
 
->Github - Learn to Code <br/>
+>**Github - Learn to Code** <br/>
 >Url: https://github.com/collections/learn-to-code <br/>
 >Languages: egnlish <br/>
 >Programming Languages: all the common ones and more <br/>
@@ -176,14 +176,14 @@ J:
 ---
 K:
 
->Khan Academy <br/>
+>**Khan Academy** <br/>
 >Url: https://de.khanacademy.org/  <br/>
 >Languages: english, german and more <br/>
 >Programming Languages: many different <br/>
 >Courses: programming, UI, Databases and more <br/>
 >Pricing: Free, you can Donate <br/>
 
->Keras <br/>
+>**Keras** <br/>
 >Url: https://keras.io/ <br/>
 >Languages: english <br/>
 >Programming Languages: Python <br/>
@@ -196,7 +196,7 @@ L:
 ---
 M:
 
->MIT OpenCourseWare <br/>
+>**MIT OpenCourseWare** <br/>
 >Url: https://ocw.mit.edu/index.htm <br/>
 >Languages: english <br/>
 >Programming Languages: Python, Java and many more <br/>
@@ -212,7 +212,7 @@ O:
 ---
 P:
 
->Python Programming Tutorials <br/>
+>**Python Programming Tutorials** <br/>
 >URL:https://pythonprogramming.net/ <br/>
 >Language: english <br/>
 >Programming Languages: Python <br/>
@@ -227,14 +227,14 @@ R:
 ---
 S:
 
->SoloLearn <br/>
+>**SoloLearn** <br/>
 >Url: https://www.sololearn.com/ <br/>
 >Languages: english <br/>
 >Programming Languages: Python, HTML, CSS, Javascript, Java, C#, SQL, C, PHP, Ruby, Swift, jQuery, Kotlin <br/>
 >Courses: Machine Learning, Data Science and many more <br/>
 >Pricing: Free <br/>
   
->Sitepoint <br/>
+>**Sitepoint** <br/>
 >Url: https://www.sitepoint.com/ <br/>
 >Languages: english <br/>
 >Programming Languages: most common ones and more <br/>
@@ -244,14 +244,14 @@ S:
 ---
 T:
 
->Treehouse <br/>
+>**Treehouse** <br/>
 >Url: https://teamtreehouse.com/ <br/>
 >Languages: english <br/>
 >Programming Languages: diverse <br/>
 >Courses: Programming, Design and more <br/>
 >Pricing: Free trial, Subscription after  <br/>
 
->The Odin Project <br/>
+>**The Odin Project** <br/>
 >Url: https://www.theodinproject.com/ <br/>
 >Languages: english <br/>
 >Programming Languages: HTML, CSS, Ruby, Javascript and more <br/>
@@ -261,7 +261,7 @@ T:
 ---
 U:
 
->Udemy <br/>
+>**Udemy** <br/>
 >Url:  https://www.udemy.com/ <br/>
 >Languages: English <br/>
 >Programming Languages : All kind of programming languages + tons of other things as well <br/>
@@ -269,7 +269,7 @@ U:
 >Pricing : moderate pricing <br/>
 >Note: Ratings are also provided which help you to actually decide to take the course or not Udemy <br/>
 
->Udacity <br/>
+>**Udacity** <br/>
 >Url: https://www.udacity.com/ <br/>
 >Languages: english <br/>
 >Programming Languages: course relevant programming languages <br/>
@@ -282,7 +282,7 @@ V:
 ---
 W:
 
->WebFundamentals formal HTMLRocks <br/>
+>**WebFundamental**s formal HTMLRocks <br/>
 >Url: https://developers.google.com/web <br/>
 >Languages: english <br/>
 >Programming Languages: HMTL, CSS and more Frontend Languages <br/>
@@ -302,6 +302,7 @@ Z:
 
 Preset for Websites:
 
+```
 **Name of the Site** <br/>
 >Url: www.site.com <br/>
 >Languages: <br/>
@@ -309,6 +310,7 @@ Preset for Websites:
 >Courses: <br/> 
 >Pricing: <br/>
 >Note: <br/>
+```
 
 recommendet sites(not in list) that need an entry:
 
@@ -333,4 +335,6 @@ git immersion
 tryhaskell
 rubymonk
 thinkful.com 
-railsforzombies.orglearnpython.org
+railsforzombies.org
+learnpython.org
+learnxinyminutes.com
