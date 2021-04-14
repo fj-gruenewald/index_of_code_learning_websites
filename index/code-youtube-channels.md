@@ -9,6 +9,11 @@
 >Language: english <br/>
 >Topics: mobile development <br/>
 
+>**Alfredo Sequedia** <br/>
+>URL: https://www.youtube.com/channel/UCMU5zibnaDg_U855nhxC8Eg <br/>
+>Language: english <br/>
+>Topics: Python, AI, Arduino Projects
+
 -------------------------------------------------------------------------------------------
 ### B:
 
