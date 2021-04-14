@@ -1,8 +1,16 @@
 # Index of Sites where you can learn how to Code
 
-**Current Entries: 30**
+**Current Entries: 34**
 
 ### A:
+
+>**aGupieWare** <br/>
+>Url: http://blog.agupieware.com/p/online-learning.html <br/>
+>Languages: english <br/>
+>Programming Languages: Python, Swift, Angular <br/> 
+>Courses: Python, Computer Science, Hacking, Swift, Angular, Linux <br/> 
+>Pricing: Free<br/>
+>Note: Blog<br/>
 
 ---
 ### B:
@@ -144,6 +152,20 @@
 >Courses: many different <br/>
 >Pricing: Free <br/>
 
+>**Edabit** <br/>
+>Url: https://edabit.com/<br/>
+>Languages: english <br/>
+>Programming Languages: C#, C++, Java, Javascript, PHP, Python, Ruby, Swift <br/> 
+>Courses: programming Languages <br/> 
+>Pricing: many Free <br/>
+
+>**Educative** <br/>
+>Url: https://www.educative.io/ <br/>
+>Languages: english <br/>
+>Programming Languages: most common ones and more <br/> 
+>Courses: programming Languages, Docker <br/> 
+>Pricing: startnig from 14,39USD/mo <br/>
+
 ---
 ### F:
 
@@ -166,6 +188,13 @@
 
 ---
 ### H:
+
+>**hackr.io** <br/>
+>Url: https://hackr.io/ <br/>
+>Languages: english <br/>
+>Programming Languages: all common ones and more<br/> 
+>Pricing: Free <br/>
+>Note: platform to find courses <br/>
 
 ---
 ### I:
@@ -321,27 +350,23 @@ Preset for Websites:
 
 recommendet sites(not in list) that need an entry:
 
-hack.pledge()
-agupieware
 dash general assembly
 infinity skills by udemy
 lynda
 free code camp
 w3schools
-hackr.io
 bento.io
 google android training
 upskill
 plural sight
-edabit
-educative
 try.github.io
+thinkful.com 
 onemonth
 sqlzoo
 git immersion
 tryhaskell
 rubymonk
-thinkful.com 
 railsforzombies.org
+
 learnpython.org
 learnxinyminutes.com
