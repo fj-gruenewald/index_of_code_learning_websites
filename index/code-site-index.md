@@ -2,7 +2,7 @@
 
 **Current Entries: 30**
 
- ## A:
+### A:
 
 ---
 ### B:
@@ -15,7 +15,7 @@
 >Pricing: Free <br/>
 
 ---
-#### C:
+### C:
 
 >**Coursera** <br/>
 >Url: https://www.coursera.org <br/>
@@ -112,7 +112,7 @@
 >Note: different levels <br/>
 
 ---
-D:
+### D:
  
 >**David Walsh Blog** <br/>
 >Url: https://davidwalsh.name/ <br/>
@@ -127,7 +127,7 @@ D:
 >Programming Languages: HTML, CSS, Javascript, Node.JS <br/>
 
 ---
-E:
+### E:
 
 >**Edx** <br/>
 >Url: https://www.edx.org/ <br/>
@@ -145,7 +145,7 @@ E:
 >Pricing: Free <br/>
 
 ---
-F:
+### F:
 
 >**freecodecamp** <br/>
 >Url: https://www.freecodecamp.org/ <br/>
@@ -155,7 +155,7 @@ F:
 >Pricing: Free <br/>
 
 ---
-G:
+### G:
 
 >**Github - Learn to Code** <br/>
 >Url: https://github.com/collections/learn-to-code <br/>
@@ -165,16 +165,16 @@ G:
 >Pricing: Free <br/>
 
 ---
-H:
+### H:
 
 ---
-I:
+### I:
 
 ---
-J:
+### J:
 
 ---
-K:
+### K:
 
 >**Khan Academy** <br/>
 >Url: https://de.khanacademy.org/  <br/>
@@ -191,10 +191,10 @@ K:
 >Note: Machine learning <br/>
 
 ---
-L:
+### L:
 
 ---
-M:
+### M:
 
 >**MIT OpenCourseWare** <br/>
 >Url: https://ocw.mit.edu/index.htm <br/>
@@ -204,13 +204,13 @@ M:
 >Pricing: Free <br/>
 
 ---
-N:
+### N:
 
 ---
-O:
+### O:
 
 ---
-P:
+### P:
 
 >**Python Programming Tutorials** <br/>
 >URL:https://pythonprogramming.net/ <br/>
@@ -219,13 +219,13 @@ P:
 >Pricing: Free <br/>
 
 ---
-Q:
+### Q:
 
 ---
-R:
+### R:
 
 ---
-S:
+### S:
 
 >**SoloLearn** <br/>
 >Url: https://www.sololearn.com/ <br/>
@@ -242,7 +242,7 @@ S:
 >Pricing: many free but also Premium stuff <br/>
 
 ---
-T:
+### T:
 
 >**Treehouse** <br/>
 >Url: https://teamtreehouse.com/ <br/>
@@ -259,7 +259,7 @@ T:
 >Pricing: Free <br/>
 
 ---
-U:
+### U:
 
 >**Udemy** <br/>
 >Url:  https://www.udemy.com/ <br/>
@@ -277,10 +277,10 @@ U:
 >Pricing: expensive <br/>
 
 ---
-V:
+### V:
 
 ---
-W:
+### W:
 
 >**WebFundamental**s formal HTMLRocks <br/>
 >Url: https://developers.google.com/web <br/>
@@ -290,13 +290,13 @@ W:
 >Pricing: Free <br/>
 
 ---
-X:
+### X:
 
 ---
-Y:
+### Y:
 
 ---
-Z:
+### Z:
 
 ---
 
