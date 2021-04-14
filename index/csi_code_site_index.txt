@@ -117,9 +117,14 @@ D:
 David Walsh Blog
 Url: https://davidwalsh.name/
 Languages: english
-Programming Languages: Java, Javascript, React.js, Node.js, Javascript
+Programming Languages: Java, React.js, Node.js, Javascript
 Courses: Blog entries
 Pricing: Free
+
+DevelopedByEd
+URL: https://developedbyed.com/
+Languages: english
+Programming Languages: HTML, CSS, Javascript, Node.JS
 
 -------------------------------------------------------------------------------------------
 E:
@@ -200,6 +205,12 @@ O:
 
 -------------------------------------------------------------------------------------------
 P:
+
+Python Programming Tutorials
+URL:https://pythonprogramming.net/
+Language: english
+Programming Languages: Python
+Pricing: Free
 
 -------------------------------------------------------------------------------------------
 Q:
