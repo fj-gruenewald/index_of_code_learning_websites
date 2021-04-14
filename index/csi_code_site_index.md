@@ -7,11 +7,11 @@ A:
 ---
 B:
 
->**BitDegree**
->Url: https://www.bitdegree.org/learn/
->Language: english
->Programming Languages: HTML, CSS, PHP, Javascript, SQL, JQuery
->Courses: none
->Pricing: Free
+>**BitDegree** <br/>
+>Url: https://www.bitdegree.org/learn/ <br/>
+>Language: english <br/>
+>Programming Languages: HTML, CSS, PHP, Javascript, SQL, JQuery <br/>
+>Courses: none <br/>
+>Pricing: Free <br/>
 
 ---
