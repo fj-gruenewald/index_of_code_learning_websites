@@ -1,6 +1,6 @@
 # Index of Sites where you can learn how to Code
 
-**Current Entries: 34**
+**Current Entries: 42**
 
 ### A:
 
@@ -186,6 +186,28 @@
 >Courses: Repositories that teach you something <br/>
 >Pricing: Free <br/>
 
+>**Git try.github** <br/>
+>Url: http://try.github.io/ <br/>
+>Languages: english <br/>
+>Programming Languages: git <br/> 
+>Courses: Git Handbook, Git Cheatsheet, Learn Git branching and more <br/> 
+>Pricing: Free <br/>
+
+>**Git Immersion** <br/>
+>Url: https://gitimmersion.com/ <br/>
+>Languages: english <br/>
+>Programming Languages: git <br/> 
+>Pricing: Free <br/>
+>Note: Learning Git from the Beginning <br/>
+
+>**Google Android Training Courses** <br/>
+>Url: https://developer.android.com/courses <br/>
+>Languages: english<br/>
+>Programming Languages: Java, Kotlin <br/> 
+>Courses: Build your first App, Android Basic Kotlin, Jetpack Compose and more <br/> 
+>Pricing: Free <br/>
+>Note: gives certifications <br/>
+
 ---
 ### H:
 
@@ -222,6 +244,21 @@
 ---
 ### L:
 
+>**Learn Python** <br/>
+>Url: https://www.learnpython.org/ <br/>
+>Languages: english <br/>
+>Programming Languages: Python, Java, HTML, Go, C, C++, Javascript, PHP, Shell, C#, Perl, Ruby, Scala, SQL <br/> 
+>Courses: Basic to Advanced<br/> 
+>Pricing: Free<br/>
+>Note: Coding Challenges<br/>
+
+>**Learn X in Y minutes** <br/>
+>Url: https://learnxinyminutes.com/ <br/>
+>Languages: english <br/>
+>Programming Languages: most common ones and more <br/> 
+>Pricing: Free <br/>
+>Note: commented Code Examples and Explanations <br/>
+
 ---
 ### M:
 
@@ -252,6 +289,13 @@
 
 ---
 ### R:
+
+>**RubyMonk** <br/>
+>Url: https://www.rubymonk.com/ <br/>
+>Languages: english <br/>
+>Programming Languages: Ruby <br/> 
+>Courses: Beginner to Expert <br/> 
+>Pricing: Free<br/>
 
 ---
 ### S:
@@ -286,6 +330,19 @@
 >Programming Languages: HTML, CSS, Ruby, Javascript and more <br/>
 >Courses: Curriculum <br/>
 >Pricing: Free <br/>
+
+>**TryHaskell** <br/>
+>Url: https://tryhaskell.org/ <br/>
+>Languages: english <br/>
+>Programming Languages: Haskell<br/> 
+>Pricing: Free<br/>
+
+>**Thinkful** <br/>
+>Url: https://www.thinkful.com/ <br/>
+>Languages: english <br/>
+>Programming Languages: <br/> 
+>Courses: Software Engineering, Data Science, Data Analysis, UX/UI, Digital Marketing and more <br/> 
+>Pricing: moderate<br/>
 
 ---
 ### U:
@@ -356,17 +413,7 @@ lynda
 free code camp
 w3schools
 bento.io
-google android training
 upskill
 plural sight
-try.github.io
-thinkful.com 
 onemonth
 sqlzoo
-git immersion
-tryhaskell
-rubymonk
-railsforzombies.org
-
-learnpython.org
-learnxinyminutes.com
