@@ -10,13 +10,17 @@
 >Topics: mobile development <br/>
 
 >**Alfredo Sequeida** <br/>
->URL: https://www.youtube.com/channel/UCMU5zibnaDg_U855nhxC8Eg <br/>
+>Url: https://www.youtube.com/channel/UCMU5zibnaDg_U855nhxC8Eg <br/>
 >Language: english <br/>
 >Topics: Python, AI, Arduino Projects
 
 -------------------------------------------------------------------------------------------
 ### B:
 
+>**Brackeys** <br />
+>Url: https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA
+>Language: english <br/>
+>Topics: Game Developement
 -------------------------------------------------------------------------------------------
 ### C:
 
