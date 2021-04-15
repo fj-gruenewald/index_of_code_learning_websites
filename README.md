@@ -35,7 +35,7 @@ See the [open issues](https://github.com/fj-gruenewald/index_of_code_learning_we
 Wanna **help** make the List **Complete**? <br/>
 Is there a **Site** you always wanted to **share**? <br/>
 
-Just write [me](https://github.com/fj-gruenewald) a Message and become a **Contributor** <br/>
+Just write a [Discussion](https://github.com/fj-gruenewald/index_of_code_learning_websites/discussions) Post and become a **Contributor** <br/>
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create.
 
 ## License
