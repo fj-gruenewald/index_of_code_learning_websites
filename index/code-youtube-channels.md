@@ -18,7 +18,7 @@
 ### B:
 
 >**Brackeys** <br />
->Url: https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA
+>Url: https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA <br />
 >Language: english <br/>
 >Topics: Game Developement
 -------------------------------------------------------------------------------------------
