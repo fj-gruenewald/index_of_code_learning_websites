@@ -22,6 +22,7 @@
 
 ## About The Project
 
+[![Contributors][contributors-shield]][contributors-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url] <br/>
 this project aims to create index lists of the most popular programming learning sites to help beginners quickly find a place where they can find the knowledge they are looking for. Also included in this project are index lists of youtube channels that publish coding tutorials or other computer science topics.
 
 ## Roadmap
@@ -44,3 +45,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Credits
 
 Picture: [flaticon.com](https://www.flaticon.com/de/) by the User: [Flat Icons](https://www.flaticon.com/de/autoren/flat-icons)
+
+
+
+[contributors-shield]: https://img.shields.io/github/contributors/fj-gruenewald/index_of_code_learning_websites.svg?style=for-the-badge
+[contributors-url]: https://github.com/fj-gruenewald/index_of_code_learning_websites/graphs/contributors
+
+[issues-shield]: https://img.shields.io/github/issues/fj-gruenewald/index_of_code_learning_websites.svg?style=for-the-badge
+[issues-url]: https://github.com/fj-gruenewald/index_of_code_learning_websites/issues
+
+[license-shield]: https://img.shields.io/github/license/fj-gruenewald/index_of_code_learning_websites.svg?style=for-the-badge
+[license-url]: https://github.com/fj-gruenewald/index_of_code_learning_websites/blob/master/LICENSE.txt
