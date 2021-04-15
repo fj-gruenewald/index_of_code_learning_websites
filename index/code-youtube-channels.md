@@ -20,7 +20,7 @@
 >**Brackeys** <br />
 >Url: https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA <br />
 >Language: english <br/>
->Topics: Game Developement
+>Topics: Unity Game Developement
 -------------------------------------------------------------------------------------------
 ### C:
 
@@ -44,6 +44,10 @@
 >Language: english <br/>
 >Topics: .Net Frontend <br/>
 
+>**Code Bullet** <br/>
+>Url: https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q <br/>
+>Language: english <br/>
+>Topics: AI <br/>
 -------------------------------------------------------------------------------------------
 ### D:
 
@@ -57,6 +61,10 @@
 >Language: english <br/>
 >Topics: Web Frontend, Web Backend, UI/UX Design <br/>
 
+>**Dani** <br/>
+>Url: https://www.youtube.com/channel/UCIabPXjvT5BVTxRDPCBBOOQ <br/>
+>Language: english <br/> 
+>Topics: Unity Game Developement <br/>
 -------------------------------------------------------------------------------------------
 ### E:
 
