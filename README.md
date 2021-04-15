@@ -55,4 +55,4 @@ Picture: [flaticon.com](https://www.flaticon.com/de/) by the User: [Flat Icons](
 [issues-url]: https://github.com/fj-gruenewald/index_of_code_learning_websites/issues
 
 [license-shield]: https://img.shields.io/github/license/fj-gruenewald/index_of_code_learning_websites.svg?style=for-the-badge
-[license-url]: https://github.com/fj-gruenewald/index_of_code_learning_websites/blob/master/LICENSE.txt
+[license-url]: https://github.com/fj-gruenewald/index_of_code_learning_websites/blob/main/LICENSE
