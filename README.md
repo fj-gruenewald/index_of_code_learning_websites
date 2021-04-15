@@ -18,17 +18,23 @@
   </p>
 </p>
 
+<br/>
+
 ## About The Project
 
 this project aims to create index lists of the most popular programming learning sites to help beginners quickly find a place where they can find the knowledge they are looking for. Also included in this project are index lists of youtube channels that publish coding tutorials or other computer science topics.
 
 ## Roadmap
 
+adding more and more entries to complete the list. <br/>
+See the [open issues](https://github.com/fj-gruenewald/index_of_code_learning_websites/issues) for a list of proposed features (and known issues).
+
 ## Contributing
 
 Wanna **help** make the List **Complete**? <br/>
-Just write [me](https://github.com/fj-gruenewald) a Message and become a **Contributor** <br/>
+Is there a **Site** you always wanted to **share**? <br/>
 
+Just write [me](https://github.com/fj-gruenewald) a Message and become a **Contributor** <br/>
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create.
 
 ## License
@@ -37,4 +43,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Credits
 
-The Picture above comes from Flaticon.com its made by the User: Flat Icons
+Picture: [flaticon.com](https://www.flaticon.com/de/) by the User: [Flat Icons](https://www.flaticon.com/de/autoren/flat-icons)
