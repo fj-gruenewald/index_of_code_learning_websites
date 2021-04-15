@@ -17,20 +17,24 @@
     <a href="https://github.com/fj-gruenewald/index_of_code_learning_websites/blob/main/index/debug-site-index.md">Debug Sites</a>
   </p>
 </p>
-  
-Here you will find a large collection of sites where you can learn programming online for free or for a small price.
 
-About courses that teach you languages, special topics or websites that help you with debugging and problems you will certainly find one or the other website here.
+## About The Project
 
-Wanna help make the List Complete?
-Just write me a Message and become a Contributor
+this project aims to create index lists of the most popular programming learning sites to help beginners quickly find a place where they can find the knowledge they are looking for. Also included in this project are index lists of youtube channels that publish coding tutorials or other computer science topics.
 
+## Roadmap
 
-### Sites to learn Programming
-[to the Code Site Index](https://github.com/fj-gruenewald/index_of_code_learning_websites/blob/main/index/code-site-index.md)
+## Contributing
 
-### Youtube Channels to learn Programming
-[to the Youtube Channel Index](https://github.com/fj-gruenewald/index_of_code_learning_websites/blob/main/index/code-youtube-channels.md)
+Wanna **help** make the List **Complete**? <br/>
+Just write [me](https://github.com/fj-gruenewald) a Message and become a **Contributor** <br/>
 
-### Sites that will help you with your Errors
-[to the Debug Site Index](https://github.com/fj-gruenewald/index_of_code_learning_websites/blob/main/index/debug-site-index.md)
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create.
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Credits
+
+The Picture above comes from Flaticon.com its made by the User: Flat Icons
