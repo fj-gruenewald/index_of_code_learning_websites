@@ -1,6 +1,6 @@
 # Index of Sites where you can learn how to Code
 
-**Current Entries: 49**
+**Current Entries: 55**
 
 ### A:
 
@@ -20,6 +20,13 @@
 >Language: english <br/>
 >Programming Languages: HTML, CSS, PHP, Javascript, SQL, JQuery <br/>
 >Courses: none <br/>
+>Pricing: Free <br/>
+
+>**Bento** <br/>
+>Url: https://bento.io/ <br/>
+>Languages: english <br/>
+>Programming Languages: HTML, CSS, Java, Javascript, Python, Shell, SQL Flask...<br/> 
+>Courses:Web, Github, Python, Databases and many more <br/> 
 >Pricing: Free <br/>
 
 ---
@@ -133,6 +140,13 @@
 >URL: https://developedbyed.com/ <br/>
 >Languages: english <br/> 
 >Programming Languages: HTML, CSS, Javascript, Node.JS <br/>
+
+>**Dash** <br/>
+>Url: https://dash.generalassemb.ly/ <br/>
+>Languages: english <br/>
+>Programming Languages: HTML, CSS, Javascript<br/> 
+>Courses: Webdesign <br/> 
+>Pricing: Account Wall <br/>
 
 ---
 ### E:
@@ -266,6 +280,13 @@
 >Pricing: Free <br/>
 >Note: commented Code Examples and Explanations <br/>
 
+>**Lynda** now LinkedIn Learning <br/>
+>Url: https://www.lynda.com/ <br/>
+>Languages: english <br/>
+>Programming Languages: depends on the Course <br/> 
+>Courses: From Theory to Practical, Office, Programming, Networks <br/> 
+>Pricing: Trial Month then Subscription <br/>
+
 ---
 ### M:
 
@@ -281,6 +302,13 @@
 
 ---
 ### O:
+
+>**OneMonth** <br/>
+>Url: https://onemonth.com/ <br/>
+>Languages: english <br/>
+>Programming Languages: HTML, CSS, Python, Javascript, java, SQL, Ruby<br/> 
+>Courses: Project Management, Wordpress, Programming Languages, Crypto Currencies and more <br/> 
+>Pricing: 300/year<br/>
 
 ---
 ### P:
@@ -304,6 +332,13 @@
 >Programming Languages: Python <br/> 
 >Pricing: Free <br/>
 >Note: Getting Started and Explanations <br/>
+
+>**Pluralsight** <br/>
+>Url: https://www.pluralsight.com/ <br/>
+>Languages: english <br/>
+>Programming Languages: Python, Javascript, Angular, C#, C++ many more <br/> 
+>Courses: diverse <br/> 
+>Pricing: Trial then starting from 26/mo <br/>
 
 ---
 ### Q:
@@ -334,6 +369,13 @@
 >Programming Languages: most common ones and more <br/>
 >Courses: many different <br/>
 >Pricing: many free but also Premium stuff <br/>
+
+>**SQLZOO** <br/>
+>Url: https://sqlzoo.net/ <br/>
+>Languages: english <br/>
+>Programming Languages: SQL<br/> 
+>Pricing: Free<br/>
+>Note: examples and quizzes<br/>
 
 ---
 ### T:
@@ -439,16 +481,3 @@ Preset for Websites:
 >Pricing: <br/>
 >Note: <br/>
 ```
-
-recommendet sites(not in list) that need an entry:
-
-dash general assembly
-infinity skills by udemy
-lynda
-free code camp
-bento.io
-upskill
-plural sight
-onemonth
-sqlzoo
-Documentation Sites of several programming languages
