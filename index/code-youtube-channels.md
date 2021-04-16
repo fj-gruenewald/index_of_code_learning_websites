@@ -1,6 +1,6 @@
 # Index of Youtube Channels about Coding
 
-**Current Entries: 13**
+**Current Entries: 17**
 
 ### A:
 
