@@ -190,6 +190,13 @@
 >Courses: you can make serveral Certificates <br/>
 >Pricing: Free <br/>
 
+>**Full Stack open** <br/>
+>Url: https://www.freecodecamp.org/ <br/>
+>Languages: english and finnish<br/>
+>Programming Languages: React, Redux, Node.js, MongoDB, GraphQL and TypeScript <br/>
+>Courses: Deep Dive Into Modern Web Development <br/>
+>Pricing: Free <br/>
+
 ---
 ### G:
 
@@ -307,6 +314,12 @@
 >Url: https://docs.microsoft.com/de-de/cpp/?view=msvc-160 <br/>
 >Languages: english, german and many more <br/>
 >Programming Languages: C++, C, Assembler <br/> 
+>Pricing: Free <br/>
+
+>**MDN Web Docs** <br/>
+>Url: https://developer.mozilla.org <br/>
+>Languages: will vary depending on the sub-pages <br/>
+>Programming Languages: HTML, CSS, JS <br/> 
 >Pricing: Free <br/>
 
 ---
