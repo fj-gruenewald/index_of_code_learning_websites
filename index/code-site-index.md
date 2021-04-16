@@ -297,6 +297,18 @@
 >Courses: more Scientific <br/>
 >Pricing: Free <br/>
 
+>**Microsoft C# Docs** <br/>
+>Url: https://docs.microsoft.com/de-de/dotnet/csharp/ <br/>
+>Languages: english ,german and many more <br/>
+>Programming Languages: C# <br/> 
+>Pricing: Free <br/>
+
+>**Microsoft C++, C, Assembler Docs** <br/>
+>Url: https://docs.microsoft.com/de-de/cpp/?view=msvc-160 <br/>
+>Languages: english, german and many more <br/>
+>Programming Languages: C++, C, Assembler <br/> 
+>Pricing: Free <br/>
+
 ---
 ### N:
 
