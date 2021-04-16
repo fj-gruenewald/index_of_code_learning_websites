@@ -1,6 +1,6 @@
 # Index of Sites where you can learn how to Code
 
-**Current Entries: 65**
+**Current Entries: 67**
 
 ### A:
 
@@ -11,6 +11,13 @@
 >Courses: Python, Computer Science, Hacking, Swift, Angular, Linux <br/> 
 >Pricing: Free<br/>
 >Note: Blog<br/>
+
+>**After Hours Programming** <br/>
+>Url: https://www.afterhoursprogramming.com/ <br/>
+>Languages: english <br/>
+>Programming Languages: HTML, Javascript, CSS, PHP, Ruby, SQL, Python <br/> 
+>Pricing: Free <br/>
+>Note: Web Development <br/>
 
 ---
 ### B:
@@ -480,6 +487,14 @@
 >Programming Languages: most common ones and more <br/> 
 >Courses:Office, IT, Academics, Business, Design, Others <br/> 
 >Pricing: cheap <br/>
+
+>**TheCodePlayer** <br/>
+>Url: https://thecodeplayer.com/ <br/>
+>Languages: english <br/>
+>Programming Languages: HTML, CSS, Javascript and more<br/> 
+>Courses: Web Development <br/> 
+>Pricing: Free <br/>
+>Note: cool walkthroughs <br/>
 
 ---
 ### U:
