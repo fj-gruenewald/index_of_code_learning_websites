@@ -126,6 +126,13 @@
 >Pricing: Free <br/>
 >Note: different levels <br/>
 
+>**Learn CSS Grid** <br/>
+>Url: https://learncssgrid.com/ <br/>
+>Languages: english <br/>
+>Programming Languages: CSS <br/>
+>Courses: A guide to learning CSS grid by @jonsuh <br/>
+>Pricing: Free <br/>
+
 ---
 ### D:
  
@@ -246,11 +253,25 @@
 >Pricing: Free <br/>
 >Note: platform to find courses <br/>
 
+>**How to Code** <br/>
+>Url: https://howtocode.club/ <br/>
+>Languages: english <br/>
+>Programming Languages: HTML, CSS, Javascript<br/> 
+>Pricing: Free <br/>
+>Note: An opinionated approach to making websites<br/>
+
 ---
 ### I:
 
 ---
 ### J:
+
+>**Java Programming** <br/>
+>Url: https://java-programming.mooc.fi/ <br/>
+>Languages: english <br/>
+>Programming Java<br/> 
+>Pricing: Free <br/>
+>Note: Published by the University of Helsinki<br/>
 
 ---
 ### K:
@@ -293,6 +314,20 @@
 >Programming Languages: depends on the Course <br/> 
 >Courses: From Theory to Practical, Office, Programming, Networks <br/> 
 >Pricing: Trial Month then Subscription <br/>
+
+>**Learn Javascript** <br/>
+>Url: https://learnjavascript.online/ <br/>
+>Languages: english <br/>
+>Programming Languages: Javascript <br/> 
+>Courses: The easiest way to  learn  &  practice  modern JavaScript <br/> 
+>Pricing: Trial and unlock the rest of the course for $55 (16.04.21).<br/>
+
+>**Learn Programming** <br/>
+>Url: https://learnprogramming.online/ <br/>
+>Languages: english <br/>
+>Programming Languages: Javascript <br/> 
+>Courses: The easiest way to learn programming step by step <br/> 
+>Pricing: Trial and unlock the rest of the course for $65 (16.04.21).<br/>
 
 ---
 ### M:
@@ -364,6 +399,13 @@
 >Programming Languages: Python, Javascript, Angular, C#, C++ many more <br/> 
 >Courses: diverse <br/> 
 >Pricing: Trial then starting from 26/mo <br/>
+
+>**Pythonbuch** <br/>
+>Url: https://pythonbuch.com/ <br/>
+>Languages: german <br/>
+>Programming Languages: Python<br/> 
+>Courses: Einführung ins Programmieren mit Python <br/> 
+>Pricing: Free <br/>
 
 ---
 ### Q:
