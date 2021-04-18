@@ -1,6 +1,6 @@
 # Index of Sites where you can learn how to Code
 
-**Current Entries: 67**
+**Current Entries: 69**
 
 ### A:
 
@@ -133,11 +133,11 @@
 >Pricing: Free <br/>
 >Note: different levels <br/>
 
->**Learn CSS Grid** <br/>
->Url: https://learncssgrid.com/ <br/>
+>**C# Corner** <br/>
+>Url: https://www.c-sharpcorner.com/ <br/>
 >Languages: english <br/>
->Programming Languages: CSS <br/>
->Courses: A guide to learning CSS grid by @jonsuh <br/>
+>Programming Languages: C#, Angular, Flutter, Python, React <br/> 
+>Courses: multiple courses to learn programming languages<br/> 
 >Pricing: Free <br/>
 
 ---
@@ -210,6 +210,13 @@
 >Programming Languages: React, Redux, Node.js, MongoDB, GraphQL and TypeScript <br/>
 >Courses: Deep Dive Into Modern Web Development <br/>
 >Pricing: Free <br/>
+
+>**F# Docs** <br/>
+>Url: https://docs.microsoft.com/en-us/dotnet/fsharp/ <br/>
+>Languages: english, german and many more<br/>
+>Programming Languages: F# <br/> 
+>Pricing: Free <br/>
+>Note: official documentation by Microsoft<br/>
 
 ---
 ### G:
@@ -335,6 +342,13 @@
 >Programming Languages: Javascript <br/> 
 >Courses: The easiest way to learn programming step by step <br/> 
 >Pricing: Trial and unlock the rest of the course for $65 (16.04.21).<br/>
+
+>**Learn CSS Grid** <br/>
+>Url: https://learncssgrid.com/ <br/>
+>Languages: english <br/>
+>Programming Languages: CSS <br/>
+>Courses: A guide to learning CSS grid by @jonsuh <br/>
+>Pricing: Free <br/>
 
 ---
 ### M:
