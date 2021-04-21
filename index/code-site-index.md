@@ -1,6 +1,6 @@
 # Index of Sites where you can learn how to Code
 
-**Current Entries: 69**
+**Current Entries: 72**
 
 ### A:
 
@@ -257,6 +257,14 @@
 >Courses: Live or Recorded, Algorithms, Datastructures, Languages and more<br/> 
 >Pricing: mostly Free with paid special Courses(moderate) <br/>
 
+>**Guru99** <br/>
+>Url: https://www.guru99.com/ <br/>
+>Languages: english <br/>
+>Programming Languages: Java, Python, Perl, Javascript, PHP, C#, C++, Kotlin, ReactJS, Ruby, WPF<br/> 
+>Courses: Live Projects, BigData, Testing, AI, SAP <br/> 
+>Pricing: Free <br/>
+>Note: Step by Step Explanations to many Topics <br/>
+
 ---
 ### H:
 
@@ -286,6 +294,13 @@
 >Programming Java<br/> 
 >Pricing: Free <br/>
 >Note: Published by the University of Helsinki<br/>
+
+>**JavaPoint** <br/>
+>Url: https://www.javatpoint.com/ <br/>
+>Languages: english <br/>
+>Programming Languages: Java, Javascript, JQuery, ReactJS, Angular, Python, C++, C#, C, SQL, <br/> 
+>Pricing: Free <br/>
+>Note: Huge Knoweledgebase, Quiz, Example Programs<br/>
 
 ---
 ### K:
@@ -427,6 +442,14 @@
 >Programming Languages: Python<br/> 
 >Courses: Einführung ins Programmieren mit Python <br/> 
 >Pricing: Free <br/>
+
+>**Programiz** <br/>
+>Url: https://www.programiz.com/ <br/>
+>Languages: english <br/>
+>Programming Languages: Python, Javascript, C, C++, Java, Kotlin, Swift, C# <br/> 
+>Courses: Programming Languages <br/> 
+>Pricing: Free <br/>
+>Note: very modern UI with clean Step-by-Step learning  <br/>
 
 ---
 ### Q:
