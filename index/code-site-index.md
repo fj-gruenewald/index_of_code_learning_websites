@@ -205,7 +205,7 @@
 >Pricing: Free <br/>
 
 >**Full Stack open** <br/>
->Url: https://www.freecodecamp.org/ <br/>
+>Url: https://fullstackopen.com/en/ <br/>
 >Languages: english and finnish<br/>
 >Programming Languages: React, Redux, Node.js, MongoDB, GraphQL and TypeScript <br/>
 >Courses: Deep Dive Into Modern Web Development <br/>
