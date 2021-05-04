@@ -1,6 +1,6 @@
 # Index of Sites where you can learn how to Code
 
-**Current Entries: 72**
+**Current Entries: 77**
 
 ### A:
 
@@ -139,6 +139,27 @@
 >Programming Languages: C#, Angular, Flutter, Python, React <br/> 
 >Courses: multiple courses to learn programming languages<br/> 
 >Pricing: Free <br/>
+
+>**CodinGame** <br/>
+>Url: https://www.codingame.com/start <br/>
+>Languages: english <br/>
+>Programming Languages: Bash, C, C#, C++, Clojure, D, Dart, F#, Go, Groovy, Haskell, Java, Javascript, Kotlin, and many more<br/> 
+>Pricing: Free <br/>
+>Note: many cool Coding Challenges <br/>
+
+>**Codeforces** <br/>
+>Url: https://codeforces.com/ <br/>
+>Languages: english <br/>
+>Programming Languages: use as you wish<br/> 
+>Pricing: Free <br/>
+>Note: Coding Challenges <br/>
+
+>**Codechef** <br/>
+>Url: https://www.codechef.com/ <br/>
+>Languages: english <br/>
+>Programming Languages: depending on Challenge<br/> 
+>Pricing: Free <br/>
+>Note: Coding Challenges and Competitions<br/>
 
 ---
 ### D:
@@ -281,6 +302,20 @@
 >Programming Languages: HTML, CSS, Javascript<br/> 
 >Pricing: Free <br/>
 >Note: An opinionated approach to making websites<br/>
+
+>**HackerRank** <br/>
+>Url: https://www.hackerrank.com/ <br/>
+>Languages: english <br/>
+>Programming Languages: no Information(account-wall) <br/> 
+>Pricing: no Information(account-wall) <br/>
+
+>**HackerEarth** <br/>
+>Url: https://www.hackerearth.com/ <br/>
+>Languages: english <br/>
+>Programming Languages: <br/> 
+>Courses: Contests, Hackatons, Data Science and more <br/> 
+>Pricing: Account Wall<br/>
+>Note: Challenges, Competitions and Questions <br/>
 
 ---
 ### I:
